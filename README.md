@@ -24,15 +24,15 @@ The Contiguous Sequence Project introduces a hybrid data structure in C++, desig
 ## Compilation and Execution
 Compile the project using the provided Makefile commands to handle building and running the application efficiently:
 
-# Compile the project
+## Compile the project
 ```bash
 make all
 ```
-# Run the compiled program
+## Run the compiled program
 ```bash
 make run
 ```
-# Clean up compiled binaries
+## Clean up compiled binaries
 ```bash
 make clean
 ```
